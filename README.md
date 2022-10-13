@@ -1,5 +1,6 @@
 # ESPN_Cricinfo
 
+
 Scraping and Cleaning India T20's data by year Via Espn-cricinfo
 This code provides 4 outputs namely Scoreboard , players_info , data_final (merge of scoreboard, players_info and impact score) and df_combined (concat of all above three files for an year)
 
@@ -55,3 +56,5 @@ You can update team id "team=6" and get data accordingly
 
 
 Note: *MVP (Impact score is only available from 2022 matches)
+
+This notebook uses library created by @soodoku - https://github.com/outside-edge/python-espncricinfo/tree/e7968c696467491cc44d7f5b9fa99bb885cbce3c
