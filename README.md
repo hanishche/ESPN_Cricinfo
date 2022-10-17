@@ -44,7 +44,7 @@ You can update team id "team=6" and get data accordingly
 | BOWLING | Bowler Name |
 | Overs | No Of overs Bowled |
 | Maidens | Maiden overs |
-| Runs_x | Runs_given by bowler |
+| Bowling_Runs | Runs_given by bowler |
 | Wickets | Wickets Taken by bowler |
 | ECON | Economy |
 | Dots | Dot balls |
@@ -55,7 +55,7 @@ You can update team id "team=6" and get data accordingly
 | PLAYER | Player name in impact table |
 | Team | Team of Player |
 | TI | Total Impact points |
-| Runs | Runs |
+| Runs(Balls) | Runs of balls |
 | I. Runs | Impact runs |
 | Bowl | Bowling figures |
 | I. Wkts | Impact wicket point |
@@ -63,6 +63,8 @@ You can update team id "team=6" and get data accordingly
 | catch_by_substitute | Catch by substitute |
 | lbw_by | lbw by |
 | run_out_dh | run out direct hit |
+| stumped_out_by | stumped_by |
+| catch_by_substitute |	substitute_catch |
 
 
 
