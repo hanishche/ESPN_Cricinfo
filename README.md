@@ -41,6 +41,17 @@ You can update team id "team=6" and get data accordingly
 | run_out_1 | runout by |
 | run_out_2 | run out assisted |
 | stumped_out_by | stumped by |
+| BOWLING | Bowler Name |
+| Overs | No Of overs Bowled |
+| Maidens | Maiden overs |
+| Runs_x | Runs_given by bowler |
+| Wickets | Wickets Taken by bowler |
+| ECON | Economy |
+| Dots | Dot balls |
+| fours | No of 4's |
+| sixes | No of 6's |
+| WD | Wide |
+| NB | No ball |
 | PLAYER | Player name in impact table |
 | Team | Team of Player |
 | TI | Total Impact points |
