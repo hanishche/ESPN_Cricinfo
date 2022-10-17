@@ -29,7 +29,7 @@ You can update team id "team=6" and get data accordingly
 | CB | Caught & Bowled |
 | R | Runs |
 | B | Balls |
-| M | Matches |
+| M | Minutes |
 | 4s | No of fours |
 | 6s | No of sixes |
 | SR | Strike rate |
